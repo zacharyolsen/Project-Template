@@ -13,3 +13,7 @@ p {
   filter: alpha(opacity=20);
   color: red;
 }
+img {
+  max-width: 300px;
+  max-height: auto;
+}
